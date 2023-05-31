@@ -70,3 +70,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+*.meta
+*.meta
+gtamp/Library/Artifacts/96/9673795485c73c0f935028e493ef9cb1
+gtamp/Library/Artifacts/b2/b29737f689c57deb32393ca30029a00a
+*.json
+gtamp/Temp/UnityLockfile
